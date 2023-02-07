@@ -89,17 +89,8 @@ h2{
   
 }
 
-#bmi-ratio{
-  color: #32325d;
-  font-family: Merriweather;
-  font-size: 35px;
-}
-
-#message{
-  color: #32325d;
-  font-family: Merriweather;
+#greet{
   font-size: 18px;
-
 }
 
 .greeting{
